@@ -1,0 +1,2 @@
+insert into users (username, email, password, role) VALUES ('owner','owner@mail.com','$2a$10$WF2100P0NRIhLggJq0JKRO9rwvzBJPcYq8Y3RRKKFvuv/Y3ak5ub6', 'OWNER');
+insert into users (username, email, password, role) VALUES ('admin','admin@mail.com','$2a$10$PAFu6xBqQlHUJ1iDbjqH1efPQQg6ZiEbAOQhsUJYBNc58MzEbrOB.', 'ADMINISTRATOR');
